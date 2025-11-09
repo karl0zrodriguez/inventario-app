@@ -1,0 +1,5 @@
+{
+  "name": "Warehouse Product Manager",
+  "description": "An AppSheet-style application to efficiently manage product inventory across multiple warehouses, featuring AI-powered content generation for product descriptions.",
+  "requestFramePermissions": []
+}
